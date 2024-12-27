@@ -23,11 +23,15 @@
 
 ## **Purpose**
 
-Sometimes When You're Coding A Web Application, You'll Need To Be Able To Accept Input From A User. 
+OOP, or Object Oriented Programming, is one of the major approaches to the software development process. 
 
-In This Calorie Counter Project, You'll Learn How To Validate User Input, Perform Calculations Based On That Input, And Dynamically Update Your Interface To Display The Results.  
+In OOP, developers use objects and classes to structure their code.
 
-In This Practice Project, You'll Learn Basic Regular Expressions, Template Literals, The AddEventListener() Method, And More.
+In this shopping cart project, you'll learn how to define classes and use them. 
+
+You'll create class instances and implement methods for data manipulation.
+
+This project will cover concepts like the ternary operator, the spread operator, the this keyword, and more.
 
 
 
